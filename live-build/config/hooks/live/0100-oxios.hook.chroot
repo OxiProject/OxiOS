@@ -1,0 +1,8 @@
+#!/bin/bash
+set -e
+
+echo "oxios" > /etc/hostname
+
+if [ -f /etc/default/grub ]; then
+  sed -i 's/^GRUB_TIMEOUT=.*/GRUB_TIMEOUT=2/' /etc/default/grub || true
+fi
