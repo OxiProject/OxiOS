@@ -1,10 +1,20 @@
-# OxiOS
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d9b31ffd-3305-4874-8831-e56e6909a017" width="180" style="border-radius:50%;">
+<img src="assets/logo.png" width="180">
 </p>
-OxiOS is a fast, minimal and stable Linux distribution built on Debian.
 
-Our goal is to create a simple operating system with a modern user experience and powerful tools.
+<h1 align="center">OxiOS</h1>
+
+<p align="center">
+Fast • Minimal • Stable Linux Distribution
+</p>
+
+---
+
+## About
+
+OxiOS is a minimal and stable Linux distribution based on Debian.
+
+The goal of OxiOS is to provide a simple and powerful operating system with modern tools and a clean desktop experience.
 
 ## Core Components
 
@@ -18,9 +28,4 @@ Our goal is to create a simple operating system with a modern user experience an
 - Fast
 - Minimal
 - Stable
-- Easy to use
-
-## Website
-
-Coming soon
-
+- Simple
