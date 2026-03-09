@@ -1,5 +1,7 @@
 # OxiOS
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d9b31ffd-3305-4874-8831-e56e6909a017" width="180" style="border-radius:50%;">
+</p>
 OxiOS is a fast, minimal and stable Linux distribution built on Debian.
 
 Our goal is to create a simple operating system with a modern user experience and powerful tools.
@@ -21,4 +23,4 @@ Our goal is to create a simple operating system with a modern user experience an
 ## Website
 
 Coming soon
-![WhatsApp Image 2026-03-08 at 21 30 40](https://github.com/user-attachments/assets/d9b31ffd-3305-4874-8831-e56e6909a017)
+
